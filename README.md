@@ -1,5 +1,7 @@
 # Case-Study 1 - Danny's Diner
 
+![image](https://user-images.githubusercontent.com/109082831/187680247-08bfb8c1-6a8f-4af9-b3cb-f2ca6a55865d.png)
+
 ## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
