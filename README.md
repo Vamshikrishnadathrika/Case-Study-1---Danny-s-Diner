@@ -23,3 +23,5 @@ Danny has shared with you 3 key datasets for this case study:
 -members.
 
 You can inspect the entity relationship diagram and example data below.
+
+![image](https://user-images.githubusercontent.com/109082831/187680377-6a0da93f-6d72-4c15-85d1-4be298855a4c.png)
