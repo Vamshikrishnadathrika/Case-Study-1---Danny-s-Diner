@@ -24,4 +24,4 @@ Danny has shared with you 3 key datasets for this case study:
 
 You can inspect the entity relationship diagram and example data below.
 
-![image](https://user-images.githubusercontent.com/109082831/187680377-6a0da93f-6d72-4c15-85d1-4be298855a4c.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/109082831/187680876-b8eb4c23-22a9-43f2-8318-492aaaabfd3b.png)
